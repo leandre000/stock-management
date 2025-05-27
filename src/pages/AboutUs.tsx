@@ -44,10 +44,10 @@ const AboutUs = () => {
                 Our Story
               </h1>
               <p className="text-xl mb-8 text-gray-700 leading-relaxed">
-                At ShopSmart, we're passionate about empowering local retailers with the tools they need to succeed in today's competitive market.
+                At SupaShop, we're passionate about empowering local retailers with the tools they need to succeed in today's competitive market.
               </p>
               <p className="text-gray-600 mb-6">
-                Founded in 2020, ShopSmart was born from the realization that many small retail businesses struggle with inventory management and sales tracking. Our founder, having grown up helping in a family-owned store, experienced these challenges firsthand and was determined to create a solution.
+                Founded in 2025, ShopSmart was born from the realization that many small retail businesses struggle with inventory management and sales tracking. Our founder, having grown up helping in a family-owned store, experienced these challenges firsthand and was determined to create a solution.
               </p>
               <p className="text-gray-600">
                 Today, we're proud to serve thousands of small and medium-sized retailers across the country, helping them streamline operations, reduce waste, and increase profits through our easy-to-use platform.
@@ -117,10 +117,10 @@ const AboutUs = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-1">Sarah Johnson</h3>
+              <h3 className="text-xl font-semibold mb-1">Shema Leandre</h3>
               <p className="text-brand-600 mb-3">CEO & Founder</p>
               <p className="text-gray-600 text-center">
-                With 15 years of experience in retail technology, Sarah leads our vision and strategy.
+                With 3 years of experience in retail technology, Leandre leads our vision and strategy.
               </p>
             </div>
             
@@ -132,7 +132,7 @@ const AboutUs = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-1">Michael Chen</h3>
+              <h3 className="text-xl font-semibold mb-1">Ganza Chael</h3>
               <p className="text-brand-600 mb-3">CTO</p>
               <p className="text-gray-600 text-center">
                 Michael oversees our technical direction and ensures our platform is reliable and scalable.
@@ -147,7 +147,7 @@ const AboutUs = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-1">Lisa Rodriguez</h3>
+              <h3 className="text-xl font-semibold mb-1">Manene Junior</h3>
               <p className="text-brand-600 mb-3">COO</p>
               <p className="text-gray-600 text-center">
                 Lisa ensures our operations run smoothly and our customers receive exceptional service.
@@ -214,7 +214,7 @@ const AboutUs = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>© {new Date().getFullYear()} ShopSmart. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} SupaShop. All rights reserved.</p>
           </div>
         </div>
       </footer>

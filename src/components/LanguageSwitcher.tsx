@@ -17,6 +17,7 @@ const languages = [
   { code: 'rw', name: 'Kinyarwanda' }
 ];
 
+
 interface LanguageSwitcherProps {
   variant?: "default" | "outline" | "secondary" | "ghost" | "link" | "destructive";
   className?: string;
